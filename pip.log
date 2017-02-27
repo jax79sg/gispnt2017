@@ -1,0 +1,812 @@
+2017-01-05 23:11:28,886 Gislogging.py line:21 LoggingHandler.info INFO Running in GUI mode
+2017-01-05 23:11:37,691 Gui.py line:120 PipGUI.runpipCallback INFO Polygon loaded:[3.0,2.0],[5.0,1.0],[7.0,2.0],[8.0,6.0],[9.0,7.0],[11.0,6.0],[10.0,4.0],[12.0,2.0],[15.0,2.0],[16.0,5.0],[19.0,7.0],[18.0,11.0],[14.0,12.0],[11.0,9.0],[5.0,9.0],[2.0,6.0],
+Size:(16, 3)
+2017-01-05 23:11:37,691 Utils.py line:173 CsvPolygonLoader.__read_csv_data ERROR The content of the polygon csv is invalid
+2017-01-05 23:11:37,691 Gui.py line:129 PipGUI.runpipCallback INFO Test Points loaded:
+2017-01-05 23:11:37,692 Geom.py line:362 Polygon.mbr DEBUG Test point is outside MBR
+2017-01-05 23:11:37,693 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:37,693 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:37,693 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:37,693 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:37,693 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:37,693 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:37,693 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:37,693 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:37,693 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:37,693 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:37,693 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:37,693 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:37,693 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:37,694 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:37,694 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:37,694 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:37,694 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-4.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-8.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-18.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-3.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=12.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=14.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=14.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-6.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-38.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-23.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-67.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-43.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=9.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-30.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-9.0
+2017-01-05 23:11:37,694 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-2.0
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.0
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=48.0
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.0
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-32.0
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-48.0
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-32.0
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.0
+2017-01-05 23:11:37,695 Geom.py line:420 Polygon.raycast INFO The generated ray is intersecting with vertex (10.0,4.0), adjusting ray angle to [3.0,4.0],[19.0,4.001],
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.0
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=48.002
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.004
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-31.995
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-47.994
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-31.992
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.007
+2017-01-05 23:11:37,695 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.009
+2017-01-05 23:11:37,696 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.012
+2017-01-05 23:11:37,696 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-15.987
+2017-01-05 23:11:37,696 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-47.984
+2017-01-05 23:11:37,696 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-111.985
+2017-01-05 23:11:37,696 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-127.989
+2017-01-05 23:11:37,696 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-79.992
+2017-01-05 23:11:37,696 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-79.998
+2017-01-05 23:11:37,696 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-32.001
+2017-01-05 23:11:37,697 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:37,697 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:37,697 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:37,697 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:37,697 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:37,697 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:37,697 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:37,697 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:37,697 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:37,697 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:37,697 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:37,697 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:37,697 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:37,697 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:37,698 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:37,698 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:37,698 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:37,698 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,698 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,698 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,698 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:37,699 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,699 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,699 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,699 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:37,699 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,699 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,699 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,699 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:37,699 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,699 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,699 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,699 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,699 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,699 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,699 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,700 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:37,700 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:37,700 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:37,700 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:37,700 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:37,700 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:37,700 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:37,701 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:37,701 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:37,701 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:37,701 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:37,701 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:37,701 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:37,701 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:37,701 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:37,701 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:37,701 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:37,701 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-10.0
+2017-01-05 23:11:37,701 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-10.0
+2017-01-05 23:11:37,701 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-12.0
+2017-01-05 23:11:37,701 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-3.0
+2017-01-05 23:11:37,701 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=6.0
+2017-01-05 23:11:37,701 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=12.0
+2017-01-05 23:11:37,701 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=6.0
+2017-01-05 23:11:37,701 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-12.0
+2017-01-05 23:11:37,701 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-34.0
+2017-01-05 23:11:37,701 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-25.0
+2017-01-05 23:11:37,701 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-57.0
+2017-01-05 23:11:37,701 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-33.0
+2017-01-05 23:11:37,702 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=9.0
+2017-01-05 23:11:37,702 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-18.0
+2017-01-05 23:11:37,702 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-9.0
+2017-01-05 23:11:37,702 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-12.0
+2017-01-05 23:11:37,702 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=56.0
+2017-01-05 23:11:37,702 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=70.0
+2017-01-05 23:11:37,702 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=56.0
+2017-01-05 23:11:37,702 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.0
+2017-01-05 23:11:37,702 Geom.py line:420 Polygon.raycast INFO The generated ray is intersecting with vertex (8.0,6.0), adjusting ray angle to [5.0,6.0],[19.0,6.001],
+2017-01-05 23:11:37,702 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=55.998
+2017-01-05 23:11:37,702 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=70.0
+2017-01-05 23:11:37,702 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=56.002
+2017-01-05 23:11:37,702 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.003
+2017-01-05 23:11:37,702 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-13.996
+2017-01-05 23:11:37,702 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.006
+2017-01-05 23:11:37,703 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=28.005
+2017-01-05 23:11:37,703 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=56.007
+2017-01-05 23:11:37,703 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=56.01
+2017-01-05 23:11:37,703 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=14.011
+2017-01-05 23:11:37,703 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-13.986
+2017-01-05 23:11:37,703 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-69.987
+2017-01-05 23:11:37,703 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-83.991
+2017-01-05 23:11:37,703 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-41.994
+2017-01-05 23:11:37,703 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-42.0
+2017-01-05 23:11:37,703 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-0.003
+2017-01-05 23:11:37,704 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:37,704 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:37,704 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:37,704 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:37,704 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:37,704 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:37,704 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:37,704 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:37,704 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:37,704 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:37,704 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:37,704 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:37,704 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:37,704 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:37,705 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:37,705 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:37,705 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,705 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,705 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,705 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,705 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:37,706 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,537 Gui.py line:120 PipGUI.runpipCallback INFO Polygon loaded:[3.0,2.0],[5.0,1.0],[7.0,2.0],[8.0,6.0],[9.0,7.0],[11.0,6.0],[10.0,4.0],[12.0,2.0],[15.0,2.0],[16.0,5.0],[19.0,7.0],[18.0,11.0],[14.0,12.0],[11.0,9.0],[5.0,9.0],[2.0,6.0],
+Size:(16, 3)
+2017-01-05 23:11:48,538 Gui.py line:129 PipGUI.runpipCallback INFO Test Points loaded:
+2017-01-05 23:11:48,539 Geom.py line:362 Polygon.mbr DEBUG Test point is outside MBR
+2017-01-05 23:11:48,540 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,540 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,540 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-23.0
+2017-01-05 23:11:48,540 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-5.0
+2017-01-05 23:11:48,540 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=22.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=4.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-7.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-4.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-16.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-18.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-9.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-13.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-19.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-16.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-12.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-6.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-30.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-50.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=30.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=35.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=30.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=10.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=5.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=10.0
+2017-01-05 23:11:48,541 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=20.0
+2017-01-05 23:11:48,542 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=30.0
+2017-01-05 23:11:48,542 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=30.0
+2017-01-05 23:11:48,542 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=15.0
+2017-01-05 23:11:48,542 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=5.0
+2017-01-05 23:11:48,542 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-15.0
+2017-01-05 23:11:48,542 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-20.0
+2017-01-05 23:11:48,542 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-5.0
+2017-01-05 23:11:48,542 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-5.0
+2017-01-05 23:11:48,542 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=10.0
+2017-01-05 23:11:48,543 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,543 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,544 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,545 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,545 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,545 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,545 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,545 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,545 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,545 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,546 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,546 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,546 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,546 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,546 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,546 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,546 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,546 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,546 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,546 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,546 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-12.0
+2017-01-05 23:11:48,546 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-16.0
+2017-01-05 23:11:48,546 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-22.0
+2017-01-05 23:11:48,546 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-7.0
+2017-01-05 23:11:48,546 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=4.0
+2017-01-05 23:11:48,546 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=18.0
+2017-01-05 23:11:48,546 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=6.0
+2017-01-05 23:11:48,546 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-18.0
+2017-01-05 23:11:48,546 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-42.0
+2017-01-05 23:11:48,546 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-35.0
+2017-01-05 23:11:48,546 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-63.0
+2017-01-05 23:11:48,546 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-27.0
+2017-01-05 23:11:48,547 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=21.0
+2017-01-05 23:11:48,547 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-6.0
+2017-01-05 23:11:48,547 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=3.0
+2017-01-05 23:11:48,547 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-6.0
+2017-01-05 23:11:48,547 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=96.0
+2017-01-05 23:11:48,547 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=112.0
+2017-01-05 23:11:48,547 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=96.0
+2017-01-05 23:11:48,547 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.0
+2017-01-05 23:11:48,547 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=16.0
+2017-01-05 23:11:48,547 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.0
+2017-01-05 23:11:48,547 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=64.0
+2017-01-05 23:11:48,547 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=96.0
+2017-01-05 23:11:48,547 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=96.0
+2017-01-05 23:11:48,548 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=48.0
+2017-01-05 23:11:48,548 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=16.0
+2017-01-05 23:11:48,548 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-48.0
+2017-01-05 23:11:48,548 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-64.0
+2017-01-05 23:11:48,548 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-16.0
+2017-01-05 23:11:48,548 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-16.0
+2017-01-05 23:11:48,548 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.0
+2017-01-05 23:11:48,549 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,549 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,549 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,549 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,549 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,549 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,549 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,549 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,549 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,549 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,549 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,549 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,549 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,549 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,549 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,550 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,550 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,550 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,550 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,551 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,552 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,552 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-19.0
+2017-01-05 23:11:48,552 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-13.0
+2017-01-05 23:11:48,552 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-3.0
+2017-01-05 23:11:48,552 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-3.0
+2017-01-05 23:11:48,553 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-3.0
+2017-01-05 23:11:48,553 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=9.0
+2017-01-05 23:11:48,553 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-6.0
+2017-01-05 23:11:48,553 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-21.0
+2017-01-05 23:11:48,553 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-28.0
+2017-01-05 23:11:48,553 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-28.0
+2017-01-05 23:11:48,553 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-42.0
+2017-01-05 23:11:48,553 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-18.0
+2017-01-05 23:11:48,553 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=9.0
+2017-01-05 23:11:48,553 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.0
+2017-01-05 23:11:48,553 Gislogging.py line:21 Polygon.info INFO Test point(8.0,9.0) is on edge [11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,554 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,554 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,554 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,554 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,554 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,554 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,554 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,555 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,555 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,555 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,555 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,555 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,555 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,555 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,555 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,555 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,555 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,555 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-10.0
+2017-01-05 23:11:48,555 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=2.0
+2017-01-05 23:11:48,555 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=15.0
+2017-01-05 23:11:48,555 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=6.0
+2017-01-05 23:11:48,555 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=6.0
+2017-01-05 23:11:48,555 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-3.0
+2017-01-05 23:11:48,555 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.0
+2017-01-05 23:11:48,555 Gislogging.py line:21 Polygon.info INFO Test point(11.0,3.0) is on edge [10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,556 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,557 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,557 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-31.0
+2017-01-05 23:11:48,557 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-13.0
+2017-01-05 23:11:48,557 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=18.0
+2017-01-05 23:11:48,558 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.0
+2017-01-05 23:11:48,558 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-15.0
+2017-01-05 23:11:48,558 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.0
+2017-01-05 23:11:48,558 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-24.0
+2017-01-05 23:11:48,558 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-30.0
+2017-01-05 23:11:48,558 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-13.0
+2017-01-05 23:11:48,558 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-25.0
+2017-01-05 23:11:48,558 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-15.0
+2017-01-05 23:11:48,558 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.0
+2017-01-05 23:11:48,558 Gislogging.py line:21 Polygon.info INFO Test point(14.0,12.0) is on edge [18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,559 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,559 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,559 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,559 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,559 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,559 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,559 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,559 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,559 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,559 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,559 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,559 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,559 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,559 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,559 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,560 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,560 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-14.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=2.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=22.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=7.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=2.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-6.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-6.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-6.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-8.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-3.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-27.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-33.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-21.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-30.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-39.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-42.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=12.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=18.0
+2017-01-05 23:11:48,560 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=12.0
+2017-01-05 23:11:48,561 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-12.0
+2017-01-05 23:11:48,561 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-18.0
+2017-01-05 23:11:48,561 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-12.0
+2017-01-05 23:11:48,561 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-0.0
+2017-01-05 23:11:48,561 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=12.0
+2017-01-05 23:11:48,561 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=12.0
+2017-01-05 23:11:48,561 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-6.0
+2017-01-05 23:11:48,561 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-18.0
+2017-01-05 23:11:48,561 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-42.0
+2017-01-05 23:11:48,561 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-48.0
+2017-01-05 23:11:48,561 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-30.0
+2017-01-05 23:11:48,561 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-30.0
+2017-01-05 23:11:48,561 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-12.0
+2017-01-05 23:11:48,562 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,562 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,562 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,562 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,562 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,562 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,562 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,562 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,562 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,562 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,563 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,563 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,563 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,563 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,563 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,563 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,563 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,563 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,563 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,563 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,563 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,563 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,563 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,563 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,563 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,563 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,563 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,563 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,563 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,563 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,563 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,563 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,564 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,564 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,565 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,565 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,565 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,565 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,565 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,565 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,565 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,566 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,566 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,566 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,566 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,566 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,566 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,566 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,566 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,566 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,566 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,566 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-27.0
+2017-01-05 23:11:48,566 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-13.0
+2017-01-05 23:11:48,566 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=11.0
+2017-01-05 23:11:48,566 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-1.0
+2017-01-05 23:11:48,566 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-11.0
+2017-01-05 23:11:48,566 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=3.0
+2017-01-05 23:11:48,566 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-18.0
+2017-01-05 23:11:48,566 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-27.0
+2017-01-05 23:11:48,566 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-18.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-26.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-24.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-6.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=3.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=12.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-15.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-45.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=63.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=70.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=63.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=35.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=28.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=35.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=49.0
+2017-01-05 23:11:48,567 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=63.0
+2017-01-05 23:11:48,568 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=63.0
+2017-01-05 23:11:48,568 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=42.0
+2017-01-05 23:11:48,568 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=28.0
+2017-01-05 23:11:48,568 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.0
+2017-01-05 23:11:48,568 Geom.py line:420 Polygon.raycast INFO The generated ray is intersecting with vertex (18.0,11.0), adjusting ray angle to [12.0,11.0],[19.0,11.001],
+2017-01-05 23:11:48,568 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=62.991
+2017-01-05 23:11:48,568 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=69.993
+2017-01-05 23:11:48,568 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=62.995
+2017-01-05 23:11:48,568 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=34.996
+2017-01-05 23:11:48,568 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=27.997
+2017-01-05 23:11:48,568 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=34.999
+2017-01-05 23:11:48,568 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=48.998
+2017-01-05 23:11:48,568 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=63.0
+2017-01-05 23:11:48,568 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=63.003
+2017-01-05 23:11:48,569 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=42.004
+2017-01-05 23:11:48,569 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=28.007
+2017-01-05 23:11:48,569 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.006
+2017-01-05 23:11:48,569 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-6.998
+2017-01-05 23:11:48,569 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=13.999
+2017-01-05 23:11:48,569 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=13.993
+2017-01-05 23:11:48,569 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=34.99
+2017-01-05 23:11:48,570 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,570 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,570 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,570 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,570 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,570 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,570 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,570 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,570 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,570 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,570 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,571 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,571 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,571 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,571 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,571 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,571 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,571 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,571 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,571 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,571 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,571 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,571 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,571 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,571 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,571 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,571 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,571 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,571 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,571 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,572 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,572 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,572 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,572 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,572 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,572 Geom.py line:362 Polygon.mbr DEBUG Test point is outside MBR
+2017-01-05 23:11:48,572 Geom.py line:362 Polygon.mbr DEBUG Test point is outside MBR
+2017-01-05 23:11:48,573 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,573 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,573 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,573 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,573 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,573 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,573 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,573 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,573 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,573 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,573 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,573 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,573 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,574 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,574 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,574 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,574 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-4.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-8.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-18.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-3.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=12.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=14.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=14.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-6.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-38.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-23.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-67.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-43.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=9.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-30.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-9.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-2.0
+2017-01-05 23:11:48,574 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.0
+2017-01-05 23:11:48,575 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=48.0
+2017-01-05 23:11:48,575 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.0
+2017-01-05 23:11:48,575 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-32.0
+2017-01-05 23:11:48,575 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-48.0
+2017-01-05 23:11:48,575 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-32.0
+2017-01-05 23:11:48,575 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.0
+2017-01-05 23:11:48,575 Geom.py line:420 Polygon.raycast INFO The generated ray is intersecting with vertex (10.0,4.0), adjusting ray angle to [3.0,4.0],[19.0,4.001],
+2017-01-05 23:11:48,575 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.0
+2017-01-05 23:11:48,575 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=48.002
+2017-01-05 23:11:48,575 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.004
+2017-01-05 23:11:48,575 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-31.995
+2017-01-05 23:11:48,575 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-47.994
+2017-01-05 23:11:48,575 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-31.992
+2017-01-05 23:11:48,575 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.007
+2017-01-05 23:11:48,575 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.009
+2017-01-05 23:11:48,576 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=32.012
+2017-01-05 23:11:48,576 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-15.987
+2017-01-05 23:11:48,576 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-47.984
+2017-01-05 23:11:48,576 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-111.985
+2017-01-05 23:11:48,576 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-127.989
+2017-01-05 23:11:48,576 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-79.992
+2017-01-05 23:11:48,576 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-79.998
+2017-01-05 23:11:48,576 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-32.001
+2017-01-05 23:11:48,577 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,577 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,577 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,577 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,577 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,577 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,577 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,577 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,577 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,577 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,577 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,578 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,578 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,578 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,578 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,578 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,578 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,578 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,578 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,578 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,578 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,579 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,580 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,580 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,580 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-10.0
+2017-01-05 23:11:48,580 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-10.0
+2017-01-05 23:11:48,580 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-12.0
+2017-01-05 23:11:48,580 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-3.0
+2017-01-05 23:11:48,580 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=6.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=12.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=6.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-12.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-34.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-25.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-57.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-33.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=9.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-18.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-9.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-12.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=56.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=70.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=56.0
+2017-01-05 23:11:48,581 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.0
+2017-01-05 23:11:48,582 Geom.py line:420 Polygon.raycast INFO The generated ray is intersecting with vertex (8.0,6.0), adjusting ray angle to [5.0,6.0],[19.0,6.001],
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=55.998
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=70.0
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=56.002
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.003
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-13.996
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=0.006
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=28.005
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=56.007
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=56.01
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=14.011
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-13.986
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-69.987
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-83.991
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-41.994
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-42.0
+2017-01-05 23:11:48,582 Geom.py line:220 Line.isIntersectPoint DEBUG Processing point intersect, cross=-0.003
+2017-01-05 23:11:48,583 Geom.py line:442 Polygon.getEdges DEBUG Listing edges:
+2017-01-05 23:11:48,583 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[3.0,2.0],[5.0,1.0],
+2017-01-05 23:11:48,583 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,1.0],[7.0,2.0],
+2017-01-05 23:11:48,583 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[7.0,2.0],[8.0,6.0],
+2017-01-05 23:11:48,583 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,584 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,584 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,6.0],[10.0,4.0],
+2017-01-05 23:11:48,584 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[10.0,4.0],[12.0,2.0],
+2017-01-05 23:11:48,584 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[12.0,2.0],[15.0,2.0],
+2017-01-05 23:11:48,584 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[15.0,2.0],[16.0,5.0],
+2017-01-05 23:11:48,584 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,584 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[19.0,7.0],[18.0,11.0],
+2017-01-05 23:11:48,584 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[18.0,11.0],[14.0,12.0],
+2017-01-05 23:11:48,584 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[14.0,12.0],[11.0,9.0],
+2017-01-05 23:11:48,584 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[11.0,9.0],[5.0,9.0],
+2017-01-05 23:11:48,584 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[5.0,9.0],[2.0,6.0],
+2017-01-05 23:11:48,584 Geom.py line:444 Polygon.getEdges DEBUG Returning edges:[2.0,6.0],[3.0,2.0],
+2017-01-05 23:11:48,584 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,584 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,584 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,584 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,584 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [8.0,6.0],[9.0,7.0],
+2017-01-05 23:11:48,584 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,584 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [9.0,7.0],[11.0,6.0],
+2017-01-05 23:11:48,584 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,584 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,584 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,585 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,585 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,585 Geom.py line:428 Polygon.raycast DEBUG Ray intersected with edge [16.0,5.0],[19.0,7.0],
+2017-01-05 23:11:48,585 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,585 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,585 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,585 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,585 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
+2017-01-05 23:11:48,585 Gislogging.py line:15 Line.debug DEBUG Processing line intersect
